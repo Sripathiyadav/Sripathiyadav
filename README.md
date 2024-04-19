@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sripathiyadav
-- 👀 I’m interested in machine learning, data science and ethical hacking
+- 👀 I’m interested in Cross Platform development
 - 🌱 I’m currently working on flutter
 - 💞️ I’m looking to collaborate on differnt projects which helps me to learn AIML
 - 📫 https://www.linkedin.com/in/sripathi-yadav
